@@ -7,6 +7,7 @@ buildscript {
     }
 }
 
+apply plugin: 'idea'
 apply plugin: 'maven'
 apply plugin: 'java'
 apply plugin: 'groovy'
