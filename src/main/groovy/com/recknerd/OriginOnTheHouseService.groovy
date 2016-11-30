@@ -10,7 +10,7 @@ class OriginOnTheHouseService {
     static final String ON_THE_HOUSE_OFFERS_DB = '/tmp/oth.previous'
 
     static final String storeBase = "https://www.origin.com/usa/en-us/store"
-    static final String apiBase = "https://api2.origin.com/supercat/US/en_US"
+    static final String apiBase = "https://api3.origin.com/supercat/US/en_US"
     static final String file = "/supercat-PCWIN_MAC-US-en_US.json.gz"
 
     static String offerTemplate = '''
